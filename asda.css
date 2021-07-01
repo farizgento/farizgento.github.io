@@ -1,0 +1,39 @@
+header,
+footer {
+  text-align: center;
+  color: white;
+}
+header {
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
+header h1 {
+  line-height: 300px;
+  margin: 0;
+  font-size: 55px;
+}
+footer p {
+  line-height: 80px;
+  margin: 0;
+  background-color: rgb(33, 85, 134);
+}
+body {
+  margin: 0;
+}
+.isi {
+  margin: 5% auto;
+  width: 55%;
+}
+div h2 {
+  font-size: xx-large;
+}
+div p,
+td,
+li {
+  line-height: 1.75;
+  font-size: larger;
+  color: #121212;
+}

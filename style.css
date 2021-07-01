@@ -1,39 +1,25 @@
-header, footer{
-    text-align: center;
-    color: white;
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #e0e8f379 !important;
 }
-header{
-    background-image: url("bg.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 300px;
-
+.bg {
+  background-color: #e0e8f379 !important;
 }
-header h1{
-    line-height: 300px;
-    margin: 0;
-    font-size: 55px;
-    
+.main {
+  min-height: 85vh;
 }
-footer p {
-    line-height: 80px;
-    margin: 0;
-    background-color: rgb(33, 85, 134);
+.height-header {
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 330px;
 }
-body{
-    margin: 0;
+div h1 {
+  color: #ffffff;
 }
-.isi{
-    margin: 5% auto;
-    width: 55%;
-}
-div h2{
-    font-size: xx-large;
-}
-div p,td,li {
-    line-height: 1.75;
-    font-size: larger;
-    color:#121212;
-
+.a {
+  color: #ffffff;
+  text-decoration: none;
 }
